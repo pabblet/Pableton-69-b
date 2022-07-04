@@ -1,0 +1,15 @@
+Inclination of the system: 89.96239364431824 deg
+
+Planet 
+Mass*sin(i): 0.9204178045068523 earthMass
+Radius: 1.0177102074052664 earthRad
+Density: 4798.240859809201 kg / m3
+Period: 354.2835482283037 MJD
+Orbital separation: 0.9798697993106068 AU
+Equilibrium temperature: 257.1877043980997 K
+
+Star 
+Mass: 1.0 solMass
+Radius: 1.0198369011811492 solRad
+Luminosity: 1.0 Lsun
+Temperature: 5715.591995518178 K
